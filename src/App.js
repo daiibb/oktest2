@@ -274,7 +274,7 @@ function App() {
                 <s.TextTitle
                   style={{ fontsize: "44", textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Whitelist Price  {CONFIG.DISPLAY_COST}{" "}
+                  Mint Price  {CONFIG.DISPLAY_COST}{" "}
                   {CONFIG.NETWORK.SYMBOL}.
                 </s.TextTitle>
                 <s.TextDescription
